@@ -1,4 +1,3 @@
-
 import os
 import json
 import requests
@@ -54,3 +53,4 @@ def consultar_partidos():
 
 if __name__ == "__main__":
     consultar_partidos()
+
